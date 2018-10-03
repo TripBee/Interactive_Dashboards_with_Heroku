@@ -1,7 +1,12 @@
 .jumbotron {
-	color: #6d5f4a;
+	color: #ffe272;
+	text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000; 
 	font-family: Garamond;
-	background-image: url("bellybuttonbiodiversity.png");
+	background-image: url("bioluminescent.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
